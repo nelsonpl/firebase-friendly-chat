@@ -1,0 +1,4 @@
+/.firebase
+/.firebaserc
+/functions/.eslintrc.json
+/functions/node_modules
